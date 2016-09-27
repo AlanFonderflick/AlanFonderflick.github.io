@@ -28,6 +28,7 @@ Quand je trucide à la pelle des monstres pour obtenir tel ou tel bien, je colle
 Ne parvenant pas à vivre ce quelque chose de différent que je retrouve pourtant dans un jeu de rôle tout à fait classique, je me suis donc penché sur ce qui pouvait manquer, et comment je pourrais moi-même apporter ma pierre à l'édifice. 
 Et cela s'est traduit par un concept simple, sur trois composantes : un **modèle orienté interactions**.
 
+---
 
 # Univers - Gameplay - Communauté _(la narration, la technique, le social)_
 
@@ -73,7 +74,11 @@ Avec un panel de joueurs imaginatifs, on a besoin de coder très peu de choses e
 C'est parce que le monde est à sauver, qu'il y a des héros.
 C'est donc au gamedesigner de faire en sorte qu'il soit constamment en danger.
 
-# Les tentatives
+---
 
-# Projet Lya
+# Tenter l'orienté utilisateur
+
+## Les précédents essais
+
+
 
