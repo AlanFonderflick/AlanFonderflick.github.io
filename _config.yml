@@ -19,8 +19,8 @@ description: > # this means to ignore newlines until "baseurl:"
   Réflexions sur le développement de jeu web, gamedesign, node.js et mongodb. Strasbourg développe des jeux !
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
-twitter_username: AlanFonderflick
-github_username:  AlanFonderflick
+twitter_username: @AlanFonderflick
+github_username:  ""
 
 # Build settings
 markdown: kramdown
