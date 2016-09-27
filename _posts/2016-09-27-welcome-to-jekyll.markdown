@@ -25,29 +25,34 @@ D'accord, Dieu n'a pas exactement dit *héros*, mais il a dit *courageux*, et mo
 
 Quand je trucide à la pelle des monstres pour obtenir tel ou tel bien, je collectionne. Mais ce n'est pas ce qui me fait vivre en tant que joueur une **histoire**, et par dessus tout, *des interactions*. Comme dans le **jeu de rôle sur table**, c'est la façon dont je me comporte, la manière dont j'agis et des risques que j'ose prendre qui font de moi une personne qui peut sortir du lot.
 
-Et d'histoire, les MMORPGs en manquent à ce jour cruellement, même ceux par navigateur.
+Ne parvenant pas à vivre ce quelque chose de différent que je retrouve pourtant dans un jeu de rôle tout à fait classique, je me suis donc penché sur ce qui pouvait manquer, et comment je pourrais moi-même apporter ma pierre à l'édifice. 
+Et cela s'est traduit par un concept simple, sur trois composantes : un **modèle orienté interactions**.
 
-Ne parvenant pas à vivre ce quelque chose de différent que je retrouve pourtant dans un RPG classique sur console comme la gamme des **Final Fantasy** (pourtant en mode solo, elle), je me suis donc penché sur ce qui pouvait manquer, et comment je pourrais moi-même apporter ma pierre à l'édifice. 
-Et cela s'est traduit par un concept simple, sur trois composantes : un modèle **orienté interactions**.
-
-# Univers - Gameplay - Communauté (la narration, la technique, le social)
+# Univers - Gameplay - Communauté _(la narration, la technique, le social)_
 
 ![Clint citation]({{ site.url }}/assets/clint.jpg) 
 
-Un jeu multijoueur, a fortiori en ligne, c'est en bonne partie trois éléments qui tentent de faire prendre la mayonnaise, et qui font la triforce d'un jeu dans lequel on a envie de se plonger. Mais a bien y regarder, ce ne sont jamais tous les trois en même temps que se retrouvent vraiment ces composantes, donnant lieu à des catégories de jeux distinctes.
+Un jeu multijoueur, a fortiori en ligne, c'est en bonne partie trois éléments qui tentent de faire prendre la mayonnaise, et qui font la triforce d'un jeu dans lequel on a envie de se plonger :
+* Le gameplay : les mécanismes de jeu, en d'autres termes la façon dont le site web réagit aux entrées de l'utilisateur.
+* L'univers : l'histoire qui l'on ressent à travers les descriptions, les objets, l'ambiance, le design graphique et sonore, et qui permettent une forme de narration
+* La communauté : le groupe de joueurs, qui provoque des interactions avec le jeu et au sein de lui-même. 
 
-## Univers + Gameplay, les jeux pseudo-multijoueurs
+Mais a bien y regarder, ce ne sont jamais tous les trois en même temps que se retrouvent vraiment ces composantes, donnant lieu à des catégories de jeux distinctes, avec chacunes leurs lacunes.
 
-//Heroes' Chronicles
-//Realm of the mad god
+## Univers + Gameplay, _les jeux pseudo-multijoueurs_
 
-## Univers + Communauté, les jeux d'immersion
+Prenez 90% du parc vidéoludique des MMORPG web, et mettez les dans cette catégorie. Tous ces jeux où en quelques clics vous avez envoyé votre personnage en quête pendant 4h (moins, si vous êtes premium) ; ces jeux où en un roulement de molette, vous avez lancé votre combat journalier pour faire augmenter votre personnage (plus, si vous êtes premium) ; ces jeux innombrables à la [League of Angels](http://frloa.r2games.com/) [Ninja RPG](www.ninarpg.com), [Alidhan](http://www.alidhan.net/), pseudo RPG / gestion / RTS / simulation / petits projets de faible envergure, dans lequel vous pourriez tout aussi bien jouer seul sans internet sans voir la moindre différence.
+
+Ce sont les **pseudo multijoueurs**, ainsi bien nommés du fait que l'interaction est optionnelle, et que l'accent est mise sur la réussite individualiste versus le jeu. Des regroupements de joueurs sont bien entendu possibles, mais entendons-nous bien qu'ils ne sont pas prioritaires.
+C'est dans ces jeux-là, prépondérant, que se trouve un manque important que la seconde catégorie tente de combler. Et cette catégorie, ce sont les mmorpg immersifs.
+
+## Univers + Communauté, _les jeux d'immersion_
 
 //Odyssée
 //Kraland
 //Dreadcast
 
-## Les méc
+## Les tentatives
 
 # Projet Lya
 
