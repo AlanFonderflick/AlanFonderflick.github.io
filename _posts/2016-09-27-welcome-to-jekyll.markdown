@@ -5,6 +5,7 @@ date:   2016-09-27 14:10:52 +0200
 categories: gamedesign
 ---
 
+
 # Le héros solitaire
 
 Ça fait 3h que je *farm*, enchaînant sur le mmo web lambda du moment les bestioles animées que le jeu se propose de mettre au carnage. Mon compteur d'expérience augmente, mon personnage sent la badassitude, et ma guilde se hisse au top du classement comme un drapeau le jour de la fête nationale. 
@@ -75,6 +76,7 @@ C'est parce que le monde est à sauver, qu'il y a des héros.
 C'est donc au gamedesigner de faire en sorte qu'il soit constamment en danger.
 
 ---
+
 
 # Tenter l'orienté utilisateur
 
