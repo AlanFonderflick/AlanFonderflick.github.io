@@ -6,7 +6,7 @@ categories: gamedesign
 ---
 
 
-# Le héros solitaire
+## Le héros solitaire
 
 Ça fait 3h que je *farm*, enchaînant sur le mmo web lambda du moment les bestioles animées que le jeu se propose de mettre au carnage. Mon compteur d'expérience augmente, mon personnage sent la badassitude, et ma guilde se hisse au top du classement comme un drapeau le jour de la fête nationale. 
 
@@ -31,7 +31,7 @@ Et cela s'est traduit par un concept simple, sur trois composantes : un **modèl
 
 ---
 
-# Univers - Gameplay - Communauté _(la narration, la technique, le social)_
+## Univers - Gameplay - Communauté _(la narration, la technique, le social)_
 
 ![Clint citation]({{ site.url }}/assets/clint.jpg) 
 
@@ -43,15 +43,15 @@ Un jeu multijoueur, a fortiori en ligne, c'est en bonne partie trois éléments 
 
 Mais a bien y regarder, ce n'est jamais vraiment de manière simultanées que se retrouvent ces composantes, donnant lieu à des catégories de jeux distinctes, avec chacunes leurs lacunes.
 
-## Univers + Gameplay, _les jeux pseudo-multijoueurs_
+### Univers + Gameplay, _les jeux pseudo-multijoueurs_
 
 Prenez 90% du parc vidéoludique des MMORPG web, et mettez les dans cette catégorie. Tous ces jeux où en quelques clics vous avez envoyé votre personnage en quête pendant 4h (moins, si vous êtes premium) ; ces jeux où en un roulement de molette, vous avez lancé votre combat journalier pour faire augmenter votre personnage (plus, si vous êtes premium) ; ces jeux innombrables à la [League of Angels](http://frloa.r2games.com/), [Ninja RPG](www.ninarpg.com), [Alidhan](http://www.alidhan.net/), jeux de gestion / RTS / simulation / petits projets de faible envergure, dans lequel vous pourriez tout aussi bien jouer seul sans internet sans voir la moindre différence.
 
 Ce sont les pseudo multijoueurs, ainsi bien nommés du fait que l'interaction est optionnelle, et que l'accent est mis sur la **réussite individualiste versus le jeu**. Des regroupements de joueurs sont bien entendu possibles, mais entendons-nous bien qu'ils ne sont pas prioritaires.
 
-C'est dans ces jeux-là, prépondérant, que se trouve un manque important que la seconde catégorie tente de combler. Et cette catégorie, ce sont les mmorpg immersifs.
+C'est dans ces jeux-là, prépondérants, que se trouve un manque important que la seconde catégorie tente de combler. Et cette catégorie, ce sont les mmorpg immersifs.
 
-## Univers + Communauté, _les jeux d'immersion_
+### Univers + Communauté, _les jeux d'immersion_
 
 Souvent dotés de peu de moyens, les jeux immersifs ont tendance à mettre fortement en avant leur univers, et à y intégrer leur communauté. Leurs points forts ne sont pas des moindres, puisqu'ils ont une particularité et une originalité dont les joueurs de type rollistes sont les plus friands :
 
@@ -65,7 +65,7 @@ Si la plupart remplissent tout à fait leur rôle d'immersion, c'est sur la part
 En regroupant uniquement les composantes d'Univers et de Communautés, ces jeux contiennent :
 
 
-- Un gameplay souvent compliqué, à l'instar d'un univers riche
+- Un gameplay souvent compliqué, à l'image d'un univers riche
 - Une lenteur dans le rythme, avec des latences de plusieurs jours entre les échanges de joueurs
 - Une lenteur au sein même de l'interface, avec un rechargement de page au moindre clic
 - Et surtout, **un manque d'actions programmées au sein du jeu**, qui pourraient donner de l'enjeu au sein de celui-ci.
@@ -78,9 +78,29 @@ C'est donc au gamedesigner de faire en sorte qu'il soit constamment en danger.
 ---
 
 
-# Tenter l'orienté utilisateur
+## Tenter l'orienté utilisateur
 
-## Les précédents essais
+De mon expérience personnelle, j'ai eu le plaisir de jouer à des projets indépendants très sympathiques, comme [Kraland](http://kraland.org/) et [DreadCast](www.dreadcast.net), pour les plus aboutis. Bien que ces deux projets soient moribonds aujourd'hui de par une veillesse marquée et des choix de gamedesign pas toujours judicieux pour ce qui est du dernier, leur mérite a été de tenter quelque chose.
+
+Ils ont offert un univers avec des règles fouillées, dans lequel un simple joueur pouvait devenir un protagoniste important et changer la face de leur monde : et offrir ça, ce n'est pas rien.
+
+Mais il me semble qu'il est possible d'aller plus loin, de chercher à proposer cette même richesse dans le background et la narration, mais de donner à la communauté des **outils en jeu** pour modifier l'univers constamment, et en être acteur.
+
+Ce n'est plus proposer un jeu de _farm_, où Gameplay s'additionne à un peu d'Univers.
+Ce n'est plus proposer de l'immersion pure, où beaucoup d'Univers est proposé à une Communauté élitiste.
+
+C'est une Communauté, un réseau de joueurs, qui dispose d'outils de Gameplay pour influencer sur l'Univers et au sein d'elle-même. 
+
+Vous imaginez, un monde où sans interactions avec les joueurs, celui-ci est conduit automatiquement à sa perte ?
+Un univers où vous pouvez passer l'exclusivité de votre temps à préparer en secret une bombe, et ravager tout un secteur de la seule ville du jeu ?
+Un État dirigé par des joueurs, en lutte constante pour rester au pouvoir et bénéficier de leur position, créant constamment du jeu du fait du conflit permanent ?
+
+Je terminerai donc cet article introductif pour poser l'ambition que [Projet Lya](www.projetlya), c'est ce défi-là, ce désir de trouver une approche originale mais pérenne. Un jeu qui ne sera peut-être pas du design d'un équivalent AAA, peut-être pas le plus fouillé comme une série de romans de Tolkien. Mais un jeu qui laisserait son empreinte dans l'imaginaire, et qui livrerait sur un plateau un monde en effroi constamment dans le danger.
+
+Un monde qui a besoin de ses joueurs.
+
+Un monde qui a besoin de héros.
+
 
 
 
