@@ -16,8 +16,16 @@ Test
 	- test
 	- test
 
+```
 	code
-	
+```
+
+~~~code~~~
+
+~~~
+code
+~~~
+
 ---
 
 test *test*
