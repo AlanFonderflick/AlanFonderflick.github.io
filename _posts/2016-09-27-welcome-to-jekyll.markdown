@@ -20,7 +20,7 @@ Qui m'admire, après tout ? Mes concurrents me jalousent peut-être. Certains me
 
 > Être *courageux*, c'est crever de peur et y aller quand même.
 
-D'accord, Dieu n'a pas exactement dit *héros*, mais il a dit *courageux*, et moi le *courage*, ça me semble la base de l'héroïsme ; et je réalise qu'il n'y en a pas deux dés à coudre dans tous mes multi-comptes réunis. Et ce pour la bonne et simple raison qu'il y a un mon sens une incompréhension dans l'industrie vidéoludique actuelle.
+D'accord, Dieu n'a pas exactement dit *héros*, mais il a dit *courageux*, et moi le *courage*, ça me semble la base de l'héroïsme ; et je réalise qu'il n'y en a pas deux dés à coudre dans tous mes multi-comptes réunis. Et ce pour la bonne et simple raison qu'il y a à mon sens une incompréhension dans l'industrie vidéoludique actuelle.
 
 ## Être héroïque, ce n'est pas collectionner, c'est interagir avec des joueurs
 
@@ -41,9 +41,9 @@ Un jeu multijoueur, a fortiori en ligne, c'est en bonne partie trois éléments 
 - **L'univers** : l'histoire qui l'on ressent à travers les descriptions, les objets, l'ambiance, le design graphique et sonore, et qui permettent une forme de narration
 - **La communauté** : le groupe de joueurs, qui provoque des interactions avec le jeu et au sein de lui-même. 
 
-Mais a bien y regarder, ce n'est jamais vraiment de manière simultanées que se retrouvent ces composantes, donnant lieu à des catégories de jeux distinctes, avec chacunes leurs lacunes.
+Mais a bien y regarder, ce n'est jamais vraiment de manière simultanées que se retrouvent ces composantes, donnant lieu à des catégories de jeux distinctes, avec chacune leurs lacunes.
 
-### Univers + Gameplay, _les jeux pseudo-multijoueurs_
+### Univers + Gameplay : _les jeux pseudo-multijoueurs_
 
 Prenez 90% du parc vidéoludique des MMORPG web, et mettez les dans cette catégorie. Tous ces jeux où en quelques clics vous avez envoyé votre personnage en quête pendant 4h (moins, si vous êtes premium) ; ces jeux où en un roulement de molette, vous avez lancé votre combat journalier pour faire augmenter votre personnage (plus, si vous êtes premium) ; ces jeux innombrables à la [League of Angels](http://frloa.r2games.com/), [Ninja RPG](www.ninarpg.com), [Alidhan](http://www.alidhan.net/), jeux de gestion / RTS / simulation / petits projets de faible envergure, dans lequel vous pourriez tout aussi bien jouer seul sans internet sans voir la moindre différence.
 
@@ -51,7 +51,7 @@ Ce sont les pseudo multijoueurs, ainsi bien nommés du fait que l'interaction es
 
 C'est dans ces jeux-là, prépondérants, que se trouve un manque important que la seconde catégorie tente de combler. Et cette catégorie, ce sont les mmorpg immersifs.
 
-### Univers + Communauté, _les jeux d'immersion_
+### Univers + Communauté : _les jeux d'immersion_
 
 Souvent dotés de peu de moyens, les jeux immersifs ont tendance à mettre fortement en avant leur univers, et à y intégrer leur communauté. Leurs points forts ne sont pas des moindres, puisqu'ils ont une particularité et une originalité dont les joueurs de type rollistes sont les plus friands :
 
@@ -70,7 +70,7 @@ En regroupant uniquement les composantes d'Univers et de Communautés, ces jeux 
 - Une lenteur au sein même de l'interface, avec un rechargement de page au moindre clic
 - Et surtout, **un manque d'actions programmées au sein du jeu**, qui pourraient donner de l'enjeu au sein de celui-ci.
 
-Avec un panel de joueurs imaginatifs, on a besoin de coder très peu de choses en tant que développeur pour que ceux-ci se mettent à s'inventer des histoires. Mais lorsqu'on leur donne les outils pour retourner des situations, provoquer des cataclismes lors d'actions à fort risque et forte récompense, on stimule l'imaginaire, et l'on stimule donc les histoires.
+Avec un panel de joueurs imaginatifs, on a besoin de coder très peu de choses en tant que développeur pour que ceux-ci se mettent à s'inventer des histoires. Mais lorsqu'on leur donne les outils pour retourner des situations, provoquer des cataclysmes lors d'actions à fort risque et forte récompense, on stimule l'imaginaire, et l'on stimule donc les histoires.
 
 C'est parce que le monde est à sauver, qu'il y a des héros.
 C'est donc au gamedesigner de faire en sorte qu'il soit constamment en danger.
@@ -79,6 +79,8 @@ C'est donc au gamedesigner de faire en sorte qu'il soit constamment en danger.
 
 
 ## Tenter l'orienté utilisateur
+
+![Schéma]({{ site.url }}/assets/three.jpg)
 
 De mon expérience personnelle, j'ai eu le plaisir de jouer à des projets indépendants très sympathiques, comme [Kraland](http://kraland.org/) et [DreadCast](www.dreadcast.net), pour les plus aboutis. Bien que ces deux projets soient moribonds aujourd'hui de par une veillesse marquée et des choix de gamedesign pas toujours judicieux pour ce qui est du dernier, leur mérite a été de tenter quelque chose.
 
