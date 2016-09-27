@@ -34,6 +34,7 @@ Et cela s'est traduit par un concept simple, sur trois composantes : un **modèl
 ![Clint citation]({{ site.url }}/assets/clint.jpg) 
 
 Un jeu multijoueur, a fortiori en ligne, c'est en bonne partie trois éléments qui tentent de faire prendre la mayonnaise, et qui font la triforce d'un jeu dans lequel on a envie de se plonger :
+
 - **Le gameplay** : les mécanismes de jeu, en d'autres termes la façon dont le site web réagit aux entrées de l'utilisateur.
 - **L'univers** : l'histoire qui l'on ressent à travers les descriptions, les objets, l'ambiance, le design graphique et sonore, et qui permettent une forme de narration
 - **La communauté** : le groupe de joueurs, qui provoque des interactions avec le jeu et au sein de lui-même. 
@@ -51,6 +52,7 @@ C'est dans ces jeux-là, prépondérant, que se trouve un manque important que l
 ## Univers + Communauté, _les jeux d'immersion_
 
 Souvent dotés de peu de moyens, les jeux immersifs ont tendance à mettre fortement en avant leur univers, et à y intégrer leur communauté. Leurs points forts ne sont pas des moindres, puisqu'ils ont une particularité et une originalité dont les joueurs de type rollistes sont les plus friands :
+
 - Un accent porté sur les personnages, qui offre une immersion complète pour le joueur
 - Un monde très fouillé qui permet des interactions plus subtiles que du combat à la chaîne
 - La possibilité pour les joueurs d'influer sur l'univers, voire de le façonner au fil des ans
@@ -59,6 +61,8 @@ On peut citer comme précurseurs de cette catégorie les MUD, ces sortes de chan
 
 Si la plupart remplissent tout à fait leur rôle d'immersion, c'est sur la partie gameplay et technique qu'ils ont tendance à accuser un certain retard, tant dû à leur âge qu'à des choix technologiques réalisés lors de la conception.
 En regroupant uniquement les composantes d'Univers et de Communautés, ces jeux contiennent :
+
+
 - Un gameplay souvent compliqué, à l'instar d'un univers riche
 - Une lenteur dans le rythme, avec des latences de plusieurs jours entre les échanges de joueurs
 - Une lenteur au sein même de l'interface, avec un rechargement de page au moindre clic
