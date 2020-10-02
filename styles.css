@@ -9,14 +9,14 @@ body {
 h1 {
     font-family: 'Russo One', sans-serif;
     text-transform: uppercase !important;
-    font-size: 4em !important;
+    font-size: 2em !important;
 }
 
 header {
     spacing: 250px !important;
-    text-align: center;
+    /* text-align: center; */
     color: #28a745 !important;
-    margin-bottom:100px !important;
+    /* margin-bottom:100px !important; */
 }
 
 header h2 {
@@ -50,12 +50,12 @@ h2 {
 }
 
 .glitch-wrapper {
-	height: 100%;
-	display: flex;
-	flex:1;
-	justify-content: center;
-	align-items: center;
-	text-align: center;
+	/* height: 100%; */
+	/* display: flex; */
+	/* flex:1; */
+	/* justify-content: center; */
+	/* align-items: center; */
+	/* text-align: center; */
 }
 
 .glitch {
@@ -315,6 +315,6 @@ h2 {
 @media (max-width: 600px) {
   #title {
     margin: 0 auto;
-    width:100%
+    width:100%;
   }
 }
