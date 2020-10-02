@@ -2,8 +2,15 @@ body {
     background-color: hsl(215 41% 5% / 1) !important;
     color: #ddd !important;
 font-family: 'Inconsolata', serif !important;
-        font-size: 1em;
+        font-size: 18px;
     margin: 2em !important;
+}
+
+/* If the screen size is 600px wide or less, set the font-size of <div> to 30px */
+@media screen and (max-width: 600px) {
+  body {
+    font-size: 30px !important;
+  }
 }
 
 h1 {
