@@ -10,16 +10,27 @@ h1 {
     font-family: 'Russo One', sans-serif;
     text-transform: uppercase !important;
     font-size: 4em !important;
-}
+    line-height: 1.5em !important; 
+} 
 
 header {
-    spacing: 250px !important;
     text-align: center;
     color: #28a745 !important;
     margin-bottom:100px !important;
 }
 
+footer {
+		border-top: thick double #28a745;
+		margin: 0 auto;
+		width: 50%;
+		text-align: left;
+}
+
 header h2 {
+    text-align: center;
+}
+
+footer h2 {
     text-align: center;
 }
 
@@ -27,7 +38,7 @@ strong {
     color: #28a745 !important;
 }
 
-section div {
+section div, footer div {
     text-align: center;
     max-width:780px;
     margin : 50px auto;
@@ -35,7 +46,6 @@ section div {
 }
 
 h2 {
-    border-bottom: 1px white;
     font-family: 'Russo One', sans-serif;
     font-weight: 900; 
     color:#c76d2d;
@@ -320,6 +330,7 @@ h2 {
 
   h1 {
     font-size: 3em !important;
+    line-height: 1em !important; 
   }
 
   h2 {
