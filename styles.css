@@ -1,0 +1,33 @@
+body {
+    background-color: #0e1518 !important;
+    color: #c76d2d !important;
+font-family: 'Inconsolata', serif !important;
+        font-size: 48px;}
+
+header {
+    margin: 0;
+    text-align:center;
+}
+
+header h2 {
+    text-align: center;
+}
+
+div {
+}
+
+section div {
+    text-align:center;
+    max-width:780px;
+        margin : 50px auto;
+        text-align:left !important;
+
+}
+
+h2 {
+    border-bottom: 1px white;
+font-family: 'Permanent Marker', cursive;
+    font-weight: 900; 
+    color:#506775;
+    text-align:right;
+}
