@@ -343,3 +343,14 @@ h2 {
   }
 
 }
+
+
+div .pageclip-form__success {
+    background: #28a745;
+    height: 50px;
+    margin-top: 250px;
+}
+
+div .pageclip-form__success__message {
+	color: white;
+}
