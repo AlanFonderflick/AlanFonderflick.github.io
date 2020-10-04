@@ -19,6 +19,17 @@ header, footer {
     margin-bottom:100px !important;
 }
 
+img {
+	margin: 0 auto;
+	display: block;
+}
+
+header img {
+	margin-top: 70px;
+	width: 100%;
+	max-width: 780px;
+}
+
 footer {
 		border-top: thick double #28a745;
 		margin: 0 auto;
@@ -54,7 +65,7 @@ h2 {
     font-family: 'Russo One', sans-serif;
     font-weight: 900; 
     color:#c76d2d;
-    text-align:right;
+    text-align:center;
 }
 
 #title {
