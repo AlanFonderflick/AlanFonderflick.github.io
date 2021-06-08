@@ -22,6 +22,8 @@ header, footer {
 img {
 	margin: 0 auto;
 	display: block;
+	max-width: 400px;
+    width: 100%;
 }
 
 header img {
@@ -350,7 +352,11 @@ h2 {
   }
 
   h2 {
-    font-size: 1.5em !important;
+    font-size: 2em !important;
+  }
+
+  p {
+  	font-size: 1.3em !important;
   }
 
 }
